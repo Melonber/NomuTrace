@@ -131,4 +131,4 @@ Point the collector at the same MQTT broker the firmware publishes to, then forw
 
 ## License
 
-See [`firmware/LICENSE`](firmware/LICENSE). *(Update this line with the actual license name once finalized.)*
+See [`firmware/LICENSE`](firmware/LICENSE). 
